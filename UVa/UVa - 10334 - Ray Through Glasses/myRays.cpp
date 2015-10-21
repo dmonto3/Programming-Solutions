@@ -34,7 +34,6 @@ const int MAXN = 1000;
 
 string rays[MAXN + 5];
 
-
 string sumar(string a, string b, int base){
    reverse(a.begin(), a.end());
    reverse(b.begin(), b.end());
